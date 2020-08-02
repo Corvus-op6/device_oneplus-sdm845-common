@@ -5,6 +5,13 @@
     "branch": "10"
   },
   {
+    "repository"  : "kdrag0n/proton-clang",
+    "branch"      : "master",
+    "remote"      : "github",
+    "clone_depth" : "1",
+    "target_path" : "prebuilts/clang/host/linux-x86/clang-proton"
+  },
+  {
     "repository"  : "kernel_oneplus_sdm845",
     "target_path" : "kernel/oneplus/sdm845",
     "branch": "10"
